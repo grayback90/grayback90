@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Kenny (@RituGray)
 - 👀 I’m interested in photography, coding, games, movies.
-- 🌱 I’m currently learning to program with flutter.
+- 🌱 I’m currently re-learning to program with java and spring.
 - 📫 To reach me send me a message.
 
 <!---
