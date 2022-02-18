@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Kenny (@RituGray)
 - 👀 I’m interested in photography, coding, games, movies.
-- 🌱 I’m currently re-learning to program with java and spring.
+- 🌱 I’m currently re-learning to program with javascript, react and php.
 - 📫 To reach me, just send me a message.
 
 ![image](https://www.codewars.com/users/RituGray/badges/large)
