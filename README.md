@@ -1,19 +1,15 @@
 <h1 align="center">Hi 👋, I'm Kenny (@grayback90)</h1>
-<h3 align="center">A passionate frontend developer from Germany.</h3>
+<h3 align="center">A passionate developer from Germany.</h3>
 
-- 🔭 I’m currently working on **Javascript-Training.**
+- 🔭 I’m currently working on my **ScreepsUltimate** Repository.
 
-- 🌱 I’m currently re-learning **Javascript, React and PHP**
+- 🌱 I’m currently re-learning **Javascript**.
 
-- 👀 I’m interested in **photography, coding, games, movies**
+- 👀 I’m interested in **photography, coding, games, movies and writing**.
 
 - 📄 Know about my experiences [grayback90.github.io](grayback90.github.io)
 
-- 📫 To reach me **send me a message**
-
-<h3 align="left">Codewars:</h3>
-<p align="left"></p>
-![image](https://www.codewars.com/users/grayback90/badges/large)
+- 📫 To reach me **send me a message**.
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
@@ -29,8 +25,6 @@
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" alt="postgre" width="40" height="40"/> </a> 
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/> </a>
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
-<a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-line.svg" alt="nextjs" width="40" height="40"/> </a> 
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" alt="tailwindcss" width="40" height="40"/> </a> 
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=grayback90&show_icons=true&theme=dark&locale=en&layout=compact" alt="grayback90" /></p>
