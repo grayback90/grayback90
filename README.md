@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kenny (@grayback90)</h1>
 <h3 align="center">A developer from Germany.</h3>
 
-- 🔭 I’m currently working on my **ScreepsUltimate** Repository in my free time.
+- 🔭 I’m currently working on my **Screeps2026** Repository in my free time.
 
 - 🌱 I’m currently trying to master **Javascript**.
 
